@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T01:47:11.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.4" etag="8u22FdKj5pBxgZKKKzdO" type="github"><diagram id="BdLwMyGjnG6UXohXk7-T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T02:02:35.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="zlBw8QRMffpRnY-df2KH" version="15.9.4" type="github">
+  <diagram id="BdLwMyGjnG6UXohXk7-T" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="480" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+          <mxGeometry x="217" y="490" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-11" value="Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="212" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-13" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="414" y="482" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-14" value="MySQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.ibm_object_storage;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-17" value="OSS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-21" value="生产1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-22" value="生产2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-23" value="生产3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="587" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-24" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="403" y="217.07" width="60" height="73.17" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-27" value="调度服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="391" y="290.24" width="87" height="29.76" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-30" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="217" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-31" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="408" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KMk3zY3-F5rNktSrJOaJ-32" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="592" y="350" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
