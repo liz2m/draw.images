@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-17T09:08:36.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="DU1Z9J5rB5Wh4aTEEfYf" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-17T09:12:10.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0C19UdmLQL5JbdVUDqJt" version="16.6.5" type="github">
   <diagram id="zysH_MN9FjRer_7VrNoe" name="Page-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -223,10 +223,10 @@
         <mxCell id="rYequQ2dtKzdK-yXNaAb-122" value="Manage Edge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="218.88" y="65" width="101" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rYequQ2dtKzdK-yXNaAb-123" value="Static" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="rYequQ2dtKzdK-yXNaAb-123" value="Monitor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="335.12" y="65" width="101" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rYequQ2dtKzdK-yXNaAb-125" value="Cesium" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="rYequQ2dtKzdK-yXNaAb-125" value="Static" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="448" y="65" width="101" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rYequQ2dtKzdK-yXNaAb-126" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
