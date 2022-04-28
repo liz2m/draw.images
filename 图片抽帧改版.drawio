@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T11:02:46.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="zAS5DNijmu_w6yEFeHlb" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T11:03:30.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="x-ORFDY9jKxLbuLUpFB0" version="17.4.2" type="github">
   <diagram id="70aEzQfd0cI717lkrUgI" name="Page-1">
     <mxGraphModel dx="1102" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
           <mxGeometry x="286" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o7nxHNN26v442LFRNjDq-8" value="channel2进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="436" y="438" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o7nxHNN26v442LFRNjDq-9" value="channel3进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="596" y="438" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="438" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o7nxHNN26v442LFRNjDq-11" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
@@ -81,6 +81,9 @@
         </mxCell>
         <mxCell id="o7nxHNN26v442LFRNjDq-29" value="抽帧系统结构图" style="text;html=1;strokeColor=#36393d;fillColor=#cdeb8b;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7nxHNN26v442LFRNjDq-30" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="468" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
