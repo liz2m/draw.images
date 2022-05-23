@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T03:37:43.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="u9fmlG0rWiVLfkzIWQgy" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T03:43:25.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="h5hn9VFQbPV16c_Xfxb2" version="18.0.3" type="github">
   <diagram id="IZB6294pRTk3BL3_B75k" name="Page-1">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,22 +47,22 @@
           <mxGeometry x="48" y="542" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-10" value="图像预处理/筛查" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="48" y="602" width="140" height="30" as="geometry" />
+          <mxGeometry x="48" y="596" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-11" value="图像上送云端" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="48" y="652" width="140" height="30" as="geometry" />
+          <mxGeometry x="48" y="650" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-12" value="图像管道分流" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="48" y="707" width="140" height="30" as="geometry" />
+          <mxGeometry x="48" y="721" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-13" value="场景算法分析" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="48" y="762" width="140" height="30" as="geometry" />
+          <mxGeometry x="48" y="768" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-14" value="上送分析结果" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="48" y="812" width="140" height="30" as="geometry" />
+          <mxGeometry x="48" y="818.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-18" value="可视化展示" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="48" y="862" width="140" height="30" as="geometry" />
+          <mxGeometry x="48" y="869.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-20" value="IPC 码流" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="565" y="566" width="140" height="30" as="geometry" />
@@ -140,6 +140,18 @@
         </mxCell>
         <mxCell id="mRCaWw0f3w8chl1u_VDb-65" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="337" y="960" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-70" value="" style="edgeStyle=none;rounded=0;html=1;entryX=0;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#00B336;strokeWidth=2;fontColor=#000000;jumpStyle=none;endArrow=none;endFill=0;startArrow=none;dashed=1;fontSize=18;endSize=3;startSize=7;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="69" y="696" as="sourcePoint" />
+            <mxPoint x="169" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-74" value="Edge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=default;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="10" y="503" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-75" value="Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=default;fontSize=11;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="10" y="691" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
