@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T02:50:16.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="18.0.3" etag="-gACVSEBOOdVpdzX8V10" type="github"><diagram id="IZB6294pRTk3BL3_B75k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-23T02:52:12.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vo1klEwI59I_hMdP1TK4" version="18.0.3" type="github">
+  <diagram id="IZB6294pRTk3BL3_B75k" name="Page-1">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-1" value="1.1 edge 向云端注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-2" value="1.2 配置nvr/ipc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-3" value="1.2.1 关联人（部门）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="37" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mRCaWw0f3w8chl1u_VDb-4" value="1.2.2 关联应用场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="257" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
