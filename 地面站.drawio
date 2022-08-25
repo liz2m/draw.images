@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T03:12:48.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4NnLHD0vU6mVA6WjbTYu" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T03:14:38.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d0F2tP9o_SwCKJAPBTVF" version="20.2.7" type="github">
   <diagram id="LEm4nLIpw5zEL37WH-7T" name="第 1 页">
-    <mxGraphModel dx="1094" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,13 +98,13 @@
           <mxGeometry x="271.53" y="642" width="224.47" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-62" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="284.68" y="649" width="21.32" height="26" as="geometry" />
+          <mxGeometry x="376" y="649" width="21.32" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-63" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="373.1" y="649" width="21.32" height="26" as="geometry" />
+          <mxGeometry x="414.68" y="649" width="21.32" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-64" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="457.53000000000003" y="649" width="21.32" height="26" as="geometry" />
+          <mxGeometry x="461.06000000000006" y="649" width="21.32" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-65" value="数据管理执行计划" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="110" y="552" width="30" height="131" as="geometry" />
@@ -188,6 +188,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="436" y="362" as="sourcePoint" />
             <mxPoint x="436" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-121" value="数据仓储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="279" y="649" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-122" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="470" as="sourcePoint" />
+            <mxPoint x="805" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-123" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="67.67" y="120" as="sourcePoint" />
+            <mxPoint x="807.67" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wt1t-0Yeev_Bzz4dzMjs-124" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontColor=#1A1A1A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="690" as="sourcePoint" />
+            <mxPoint x="805" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
