@@ -1,32 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:25:53.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0Jr5xHrmKiJAmvI9_lh9" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:42:05.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1UkISvoUfYbYQoQlaLR8" version="17.4.6" type="github">
   <diagram id="gHwJbXmGLH2jqeoKwgFD" name="Page-1">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-2" target="BS0VK_3hPEfs9OFceFL0-9">
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-6" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;&lt;b&gt;* 更新操作为删除特征值集合，重新创建&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;红色&lt;/font&gt;|&lt;font color=&quot;#00cc66&quot;&gt;绿色&lt;/font&gt;部分需要自己实现&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;*&amp;nbsp;&lt;font color=&quot;#007fff&quot;&gt;蓝色&lt;/font&gt;部分调用 lz2m-face-engine 接口&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-12" target="BS0VK_3hPEfs9OFceFL0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-2" value="特征值集合" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-3" value="特征值" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="250" y="566" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-4" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;/proxima/collection/[delete/create]/特征库名称&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="362" y="340" width="310" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-5" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;/doc/&amp;lt;string:action&amp;gt;/&amp;lt;string:name&amp;gt;    action[delete|insert|query]  name 特征库名称&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="395" y="606" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-6" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;&lt;b&gt;* 更新操作为删除特征值集合，重新创建&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="10" y="40" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-9" target="BS0VK_3hPEfs9OFceFL0-3">
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-12" target="BS0VK_3hPEfs9OFceFL0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BS0VK_3hPEfs9OFceFL0-9" value="提取特征值" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="250" y="446" width="120" height="60" as="geometry" />
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-12" value="人脸标准照" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-13" value="创建人脸集合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-14" target="BS0VK_3hPEfs9OFceFL0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-14" target="BS0VK_3hPEfs9OFceFL0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-14" value="提取人脸特征" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="484" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-15" value="插入人脸特征集合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="669" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-16" value="保存到数据库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="669" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-25" target="BS0VK_3hPEfs9OFceFL0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-25" value="人脸检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-28" value="&lt;span style=&quot;font-weight: 700&quot;&gt;/face/&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;detection&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22585%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22585%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22585%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="365" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-29" value="&lt;span style=&quot;font-weight: 700&quot;&gt;/face/&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;feature&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22585%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22585%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-weight: 700 ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E7%B4%A2%E5%8C%B9%E9%85%8D%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23dae8fc%3BstrokeColor%3D%236c8ebf%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22170%22%20y%3D%22585%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="499" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-30" value="/proxima/&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;jetbrains mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;collection&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="285" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-31" value="/proxima/&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;doc&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="680" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
