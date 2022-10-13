@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:46:20.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ea8haxfu2A2ACyJjjCMQ" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:51:54.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zmNFWMe8A7DdmGxm3Vcd" version="17.4.6" type="github">
   <diagram id="gHwJbXmGLH2jqeoKwgFD" name="Page-1">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         <mxCell id="BS0VK_3hPEfs9OFceFL0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-25" target="BS0VK_3hPEfs9OFceFL0-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#7F00FF;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-25" target="BS0VK_3hPEfs9OFceFL0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BS0VK_3hPEfs9OFceFL0-25" value="人脸检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,6 +63,15 @@
         </mxCell>
         <mxCell id="BS0VK_3hPEfs9OFceFL0-34" value="特征值数组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-35" value="对象存储" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-37" value="开/关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;&amp;nbsp;/edge/nvr/channel/时间(图片抽取的时间)/标准图/图片数据&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
