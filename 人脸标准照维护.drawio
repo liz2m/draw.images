@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:23:52.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="17.4.6" etag="xYgCZUY64R78IjaD3sse" type="github"><diagram id="gHwJbXmGLH2jqeoKwgFD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:25:53.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0Jr5xHrmKiJAmvI9_lh9" version="17.4.6" type="github">
+  <diagram id="gHwJbXmGLH2jqeoKwgFD" name="Page-1">
+    <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-2" target="BS0VK_3hPEfs9OFceFL0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-2" value="特征值集合" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-3" value="特征值" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="566" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-4" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;/proxima/collection/[delete/create]/特征库名称&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="362" y="340" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-5" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;/doc/&amp;lt;string:action&amp;gt;/&amp;lt;string:name&amp;gt;    action[delete|insert|query]  name 特征库名称&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="395" y="606" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-6" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;&lt;b&gt;* 更新操作为删除特征值集合，重新创建&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BS0VK_3hPEfs9OFceFL0-9" target="BS0VK_3hPEfs9OFceFL0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BS0VK_3hPEfs9OFceFL0-9" value="提取特征值" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="446" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
