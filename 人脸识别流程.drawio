@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T03:09:37.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t1345sjTiBRcO5wZUmtY" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T03:11:27.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9T3IRZkiIVzOWhDYnAFo" version="17.4.6" type="github">
   <diagram id="Su9L9GBLkU5fHmpjonaS" name="Page-1">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,18 @@
         </mxCell>
         <mxCell id="DILQKqO1SH76Bk8c7bqB-23" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;&lt;b&gt;* &lt;font color=&quot;#ff0000&quot;&gt;红色&lt;/font&gt;|&lt;font color=&quot;#00cc66&quot;&gt;绿色&lt;/font&gt;部分需要自己实现&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;* &lt;font color=&quot;#007fff&quot;&gt;蓝色&lt;/font&gt;部分调用 lz2m-face-engine 接口&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DILQKqO1SH76Bk8c7bqB-24" value="图片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DILQKqO1SH76Bk8c7bqB-25" value="图片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DILQKqO1SH76Bk8c7bqB-26" value="特征数组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DILQKqO1SH76Bk8c7bqB-27" value="json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="680" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
