@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:27:19.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vKcgfnszGIN6H6XCZqXG" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:31:13.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XfKhEbArk8vbux32quDY" version="20.4.0" type="github">
   <diagram id="f5aA6mKZVOiBzjaRbKyW" name="第 1 页">
     <mxGraphModel dx="2062" dy="2259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="h2EVxIKH0hydPoliz-5T-4" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3F8624;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.door_lock;" parent="1" vertex="1">
           <mxGeometry x="151" y="620" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="h2EVxIKH0hydPoliz-5T-5" value="门锁" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="585" width="60" height="30" as="geometry" />
+        <mxCell id="h2EVxIKH0hydPoliz-5T-5" value="锁控装置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0066CC;" parent="1" vertex="1">
+          <mxGeometry x="160" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="h2EVxIKH0hydPoliz-5T-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
             <mxPoint x="611" y="834" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h2EVxIKH0hydPoliz-5T-10" value="指示灯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="h2EVxIKH0hydPoliz-5T-10" value="电子标签" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="235" y="790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/nuvola2/128x128/apps/kcmpci.png" parent="1" vertex="1">
@@ -89,11 +89,11 @@
         <mxCell id="h2EVxIKH0hydPoliz-5T-44" value="1.签到" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="82" y="302" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h2EVxIKH0hydPoliz-5T-45" value="2.任务完成校验" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;fillColor=#e1d5e7;" parent="1" vertex="1">
+        <mxCell id="h2EVxIKH0hydPoliz-5T-45" value="2.图像比对" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="82" y="372" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-46" value="3.任务管理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;fillColor=#e1d5e7;" parent="1" vertex="1">
-          <mxGeometry x="82" y="432" width="110" height="60" as="geometry" />
+          <mxGeometry x="82" y="440" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-47" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
           <mxGeometry x="500" y="315" width="50" height="31.5" as="geometry" />
@@ -101,14 +101,20 @@
         <mxCell id="h2EVxIKH0hydPoliz-5T-52" value="4.准入校验" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#9673a6;fontStyle=1;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="82" y="502" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0t1G-UWzfi1k0xEK51TH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#0066CC;" edge="1" parent="1" source="h2EVxIKH0hydPoliz-5T-54" target="h2EVxIKH0hydPoliz-5T-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-54" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;strokeColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="640.5" y="233.5" width="41" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0t1G-UWzfi1k0xEK51TH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#0066CC;" edge="1" parent="1" source="h2EVxIKH0hydPoliz-5T-57" target="h2EVxIKH0hydPoliz-5T-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-57" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.augmented_ai;" parent="1" vertex="1">
-          <mxGeometry x="629.5" y="324" width="52" height="52" as="geometry" />
+          <mxGeometry x="638" y="325" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-58" value="算法推理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontColor=#00CCCC;" parent="1" vertex="1">
-          <mxGeometry x="690" y="331" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="332" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h2EVxIKH0hydPoliz-5T-59" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#00CCCC;" parent="1" vertex="1">
           <mxGeometry x="690" y="253.5" width="60" height="30" as="geometry" />
