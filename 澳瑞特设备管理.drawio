@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T05:27:57.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mrx2Jtx1bjyr5uC4gAnL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T05:29:47.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OicZLRbM5DKQ8E_UwuXW" version="20.6.0" type="github">
   <diagram id="ls8e80-gLTeel5YpICp5" name="第 1 页">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
         <mxCell id="QGSotT8n_K5I-33iUHCd-67" value="wifi 模式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4C0099;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="612" y="850" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QGSotT8n_K5I-33iUHCd-68" value="资源预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=3" vertex="1" parent="1">
+        <mxCell id="QGSotT8n_K5I-33iUHCd-68" value="资源预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="85" y="385" width="90" height="175" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#000000;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" edge="1" parent="1">
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-86" value="云端k8s管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="620" width="110" height="30" as="geometry" />
+          <mxGeometry x="50" y="620" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-88" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontColor=#000000;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
