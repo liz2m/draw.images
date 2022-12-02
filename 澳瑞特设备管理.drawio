@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T05:24:38.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Yfnl6FrfV_G5q2omViwC" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T05:26:01.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I-3bkVXokJvbO9YdnsFa" version="20.6.0" type="github">
   <diagram id="ls8e80-gLTeel5YpICp5" name="第 1 页">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="QGSotT8n_K5I-33iUHCd-37" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="627" y="442.5" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QGSotT8n_K5I-33iUHCd-39" value="分析系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="QGSotT8n_K5I-33iUHCd-39" value="AI系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="582" y="202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-40" value="业务管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
