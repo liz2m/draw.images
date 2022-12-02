@@ -1,35 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T03:59:59.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="g1qMr6g61cVjxUCtvoRO" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T04:24:55.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WyGt_fR9DCMRwBQIWZlg" version="20.6.0" type="github">
   <diagram id="ls8e80-gLTeel5YpICp5" name="第 1 页">
     <mxGraphModel dx="2062" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QGSotT8n_K5I-33iUHCd-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/exercise-cardio-running-treadmill-fitness-diet-128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="926" width="64" height="64" as="geometry" />
+          <mxGeometry x="358" y="968" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-4" value="" style="points=[[0.005,0.09,0],[0.08,0,0],[0.76,0.25,0],[1,0.92,0],[0.91,0.995,0],[0.57,0.995,0],[0.045,0.955,0],[0.005,0.43,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.3g_4g_indicator;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="364" y="630" width="50" height="50" as="geometry" />
+          <mxGeometry x="605" y="650" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="215" y="850" width="15" height="28.799999999999997" as="geometry" />
+          <mxGeometry x="343" y="892" width="15" height="28.799999999999997" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-15" value="" style="shape=mxgraph.cisco.misc.breakout_box;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="920" width="60" height="70" as="geometry" />
+          <mxGeometry x="238" y="962" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="205" y="740" width="35" height="50" as="geometry" />
+          <mxGeometry x="333" y="782" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__wifi_-128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="880" width="34" height="34" as="geometry" />
+          <mxGeometry x="558" y="922" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2183/512/social__media__social_media__wifi_-128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="550" y="878.8" width="34" height="34" as="geometry" />
+          <mxGeometry x="678" y="920.8" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/dompicon-glyph-fitness-diet/256/exercise-cardio-running-treadmill-fitness-diet-128.png;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="929" width="64" height="64" as="geometry" />
+          <mxGeometry x="658" y="971" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QGSotT8n_K5I-33iUHCd-27" value="" style="shape=mxgraph.cisco.misc.breakout_box;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="923" width="60" height="70" as="geometry" />
+          <mxGeometry x="538" y="965" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-29" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="359" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-30" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="788" y="988.6" width="15" height="28.799999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-31" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="878" y="975" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-35" value="数据网关" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="471" y="540" width="219" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-36" value="消息总线" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="940" y="141" width="26" height="479" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-37" value="数据清洗" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-39" value="分析系统" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="457" y="202" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-40" value="业务管理" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="111" y="141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-41" value="可视化展示" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="231" y="141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-42" value="算法建模" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="393" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-43" value="算法推理" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="513" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-45" value="业务系统" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="171" y="201" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-51" value="平台监控系统" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="746" y="203" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-52" value="日志采集分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="682" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-53" value="系统资源/程序监控" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="802" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-55" value="数据制成品" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGSotT8n_K5I-33iUHCd-57" value="存储集群" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="171" y="400" width="219" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
