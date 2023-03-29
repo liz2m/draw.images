@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T08:39:43.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="NOUS5hcUU4w-3mxKruNj" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T08:41:14.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="qG-AGm8LmsSisqA2-iAL" version="21.1.1" type="github">
   <diagram name="第 1 页" id="8kiX-l5EkHe59Z4uoZw7">
     <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="548" y="187" width="160" height="146" as="geometry" />
+          <mxGeometry x="460" y="188" width="150" height="143" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WWdbOnZsrV5YWVGLr75T-1" target="WWdbOnZsrV5YWVGLr75T-9">
           <mxGeometry relative="1" as="geometry">
@@ -93,7 +93,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-31" value="翻译" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272.5" y="380" width="85" height="60" as="geometry" />
+          <mxGeometry x="272.5" y="340" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-33" value="数据持久化" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="110" height="40" as="geometry" />
@@ -123,10 +123,10 @@
           <mxGeometry x="560" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-56" value="翻译字典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="200" width="105" height="33" as="geometry" />
+          <mxGeometry x="487.5" y="200" width="105" height="33" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-57" value="同义词字典" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="243.5" width="105" height="33" as="geometry" />
+          <mxGeometry x="487.5" y="240" width="105" height="33" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WWdbOnZsrV5YWVGLr75T-63" target="WWdbOnZsrV5YWVGLr75T-13">
           <mxGeometry relative="1" as="geometry" />
@@ -137,19 +137,19 @@
         <mxCell id="WWdbOnZsrV5YWVGLr75T-63" value="维度模型数据" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="256.5" y="520" width="117" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WWdbOnZsrV5YWVGLr75T-70" value="数据预处理系统" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="WWdbOnZsrV5YWVGLr75T-70" value="数据预处理系统" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="100" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WWdbOnZsrV5YWVGLr75T-71" value="规则校验系统" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="WWdbOnZsrV5YWVGLr75T-71" value="规则校验系统" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WWdbOnZsrV5YWVGLr75T-72" value="制成品应用系统" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="WWdbOnZsrV5YWVGLr75T-72" value="制成品应用系统" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="980" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WWdbOnZsrV5YWVGLr75T-77" value="其他字典模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="105" height="33" as="geometry" />
+          <mxGeometry x="487.5" y="280" width="105" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WWdbOnZsrV5YWVGLr75T-78" value="消息总线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="WWdbOnZsrV5YWVGLr75T-78" value="消息总线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="730" y="10" width="70" height="1080" as="geometry" />
         </mxCell>
       </root>
