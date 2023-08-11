@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T08:06:30.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kKKV5z7WGmiEZw2T5gzt" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T08:08:00.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TKJX2BUYHd_2_wAZu76l" version="21.6.8" type="github">
   <diagram name="Page-1" id="XHnx7GiShQzO20-7YMqX">
     <mxGraphModel dx="2284" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -205,13 +205,13 @@
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-66" value="chrony（时间同步[node]）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="381.5" y="990" width="159.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-71" value="CPU:13900K Mem:128GB SSD: 1T GPU:4070Ti(12GB)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-71" value="CPU:13900K Mem:128GB SSD: 1T GPU:4070Ti(12GB)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#6600CC;" vertex="1" parent="1">
           <mxGeometry x="-169" y="200" width="750" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-72" value="硬件配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-309" y="206" width="140" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-77" value="周界入侵检测程序部署图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-77" value="周界入侵检测程序部署结构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-10.200000000000003" y="50" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
