@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T07:50:30.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3e-P7sFZ3IncB0X1fGTv" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T07:52:13.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="lACdT11mLeB7oMsnJOHg" version="21.6.8" type="github">
   <diagram name="Page-1" id="XHnx7GiShQzO20-7YMqX">
     <mxGraphModel dx="2284" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,17 +157,17 @@
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-42" value="srs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="830" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-44" value="抽帧程序(有状态负载)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="300" width="140" height="28" as="geometry" />
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-44" value="抽帧程序(有状态负载)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="300" width="140" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-46" value="算法调度处理程序（无状态负载均衡）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="330" width="210" height="36" as="geometry" />
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-46" value="算法调度处理程序（无状态负载均衡）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="-245" y="331" width="210" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-48" value="业务程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-48" value="业务程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-179.5" y="500" width="210" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-50" value="基础环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-179.5" y="714" width="210" height="36" as="geometry" />
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-50" value="基础环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="-175.5" y="714" width="210" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-52" value="chrony（时间同步[master]）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10.5" y="990" width="159.5" height="40" as="geometry" />
@@ -181,7 +181,7 @@
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-56" value="potainer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="880" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-58" value="监控/辅助系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-58" value="监控/辅助系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-190" y="877" width="210" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-59" value="OS: Anlois8.8GA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -208,7 +208,7 @@
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-71" value="CPU:13900K Mem:128GB SSD: 1T GPU:4070Ti(12GB)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-40" y="200" width="750" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-72" value="硬件配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-72" value="硬件配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
           <mxGeometry x="-180" y="206" width="140" height="28" as="geometry" />
         </mxCell>
       </root>
