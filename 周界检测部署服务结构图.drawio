@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T10:01:32.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_NiL-oyFIH19M2EgN4TD" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T10:04:28.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VwHEOHH2249oBReqz2Fx" version="21.6.8" type="github">
   <diagram name="Page-1" id="XHnx7GiShQzO20-7YMqX">
     <mxGraphModel dx="2284" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-72" value="硬件配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-309" y="206" width="140" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="_41Iq6OzP9S5sfrPNSl_-77" value="周界入侵检测程序部署结构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-77" value="周界入侵检测程序部署结构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="55.5" y="50" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-78" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
@@ -225,6 +225,15 @@
         </mxCell>
         <mxCell id="_41Iq6OzP9S5sfrPNSl_-82" value="报警设备：192.168.1.15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="623.38" y="630" width="149.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-92" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="10" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-93" value="服务器端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_41Iq6OzP9S5sfrPNSl_-94" value="客户端" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="85" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
