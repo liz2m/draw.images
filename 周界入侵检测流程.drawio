@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:47:46.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jxh5iqWqJf6iqVA7BNT2" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:54:08.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_dZzg_ixGFD1X_G7XKHR" version="21.6.8" type="github">
   <diagram name="Page-1" id="T3Z21k5VHN_iptqrHMHW">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="830" height="2170" as="geometry" />
+          <mxGeometry x="28" y="97" width="830" height="2103" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -62,7 +62,7 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-25" value="视频流" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="453" y="370" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-26" value="&lt;h1&gt;步骤&lt;/h1&gt;&lt;div&gt;1. 按指定的帧率从视频流中获取帧数据&lt;/div&gt;&lt;div&gt;2. 帧数据转化为图片数据&lt;/div&gt;&lt;div&gt;3. 将图片数据进行压缩&lt;/div&gt;&lt;div&gt;4. 将压缩后的图片及设备信息、时间信息封装程protobuf 传入kafka&lt;/div&gt;&lt;div&gt;5. 由于设备连接数过多，一个抽帧程序中同时会创建多个图片压缩进程及多个kafka 客户端上传图片数据，此参数可在后台管理功能中进行配置&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-26" value="&lt;h1&gt;步骤&lt;/h1&gt;&lt;div&gt;1. 按指定的帧率从视频流中获取帧数据&lt;/div&gt;&lt;div&gt;2. 帧数据转化为图片数据。&lt;/div&gt;&lt;div&gt;3. 将图片数据进行压缩。&lt;/div&gt;&lt;div&gt;4. 将压缩后的图片及设备信息、时间信息封装程protobuf 传入kafka。&lt;/div&gt;&lt;div&gt;5. 由于设备连接数过多，一个抽帧程序中同时会创建多个图片压缩进程及多个kafka 客户端上传图片数据，此参数可在后台管理功能中进行配置。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100.25" y="570" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="aJU3L4zh-oG6XwhIlIdD-21">
@@ -94,7 +94,7 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-45" value="Master/Node1/Node2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=10;fontColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="360.24" y="1128" width="154.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-46" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. master node1 node2 都安装有抽帧程序，此程序对应后台管理中的 edge1、edge2、edge3&lt;/p&gt;&lt;p&gt;2. 三台服务器分别承担摄像头的抽帧长连接工作。例如：1-6 channels 通过edge1 抽取 7-15 通过edge2 抽取&lt;/p&gt;&lt;p&gt;3. 抽帧程序实现了有状态的负载均衡策略即将指定的摄像头通过指定 edge 进行对应的抽取工作&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-46" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. master node1 node2 都安装有抽帧程序，此程序对应后台管理中的 edge1、edge2、edge3。&lt;/p&gt;&lt;p&gt;2. 三台服务器分别承担摄像头的抽帧长连接工作。例如：1-6 摄像头 通过edge1 抽取 7-15 通过edge2 抽取。&lt;/p&gt;&lt;p&gt;3. 抽帧程序实现了有状态的负载均衡策略。即将指定的摄像头通过指定 edge 进行对应的抽取工作。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130.25" y="360" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJU3L4zh-oG6XwhIlIdD-47" target="aJU3L4zh-oG6XwhIlIdD-180">
@@ -138,7 +138,7 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-61" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="930" width="50" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-62" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. Kafka 中 存储图片的主题包换 8个分区，所有摄像头的数据会更具Id的不同Hash存储到8个分区中，用于提供给后续8个不同消费者进行消费，实现负载均衡&lt;/p&gt;&lt;p&gt;2. Kafka 中的数据会定时进行清理，目前设置的最大存储容量为200GB最大存储时间为为2消失，即：满足以上条件中的一个条件，数据即会被清理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-62" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. Kafka 中 存储图片的主题包换 8个分区，所有摄像头的数据会根据Id的不同Hash存储到8个分区中，用于提供给后续8个不同消费者进行消费，实现负载均衡。&lt;/p&gt;&lt;p&gt;2. Kafka 中的数据会定时进行清理，目前设置的最大存储容量为200GB最大存储时间为2消失，即：满足以上条件中的一个条件，数据即会被清理。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="780" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-63" value="主题：prod_edge_image_sence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontColor=#808080;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -392,9 +392,6 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-180" value="Protobuf" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.portfolio;" vertex="1" parent="1">
           <mxGeometry x="407.62" y="1000" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-183" value="Protobuf 序列化后的数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="467.62" y="1007.5" width="180" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-185" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="661.95" y="1894" width="28.05" height="23" as="geometry" />
         </mxCell>
@@ -406,6 +403,18 @@
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-191" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;" vertex="1" parent="1">
           <mxGeometry x="309" y="1821" width="16.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-200" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="473" y="983.5" width="20" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-202" value="二进制图片数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="970" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-203" value="设备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="1005" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-204" value="时间信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="483" y="1035" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
