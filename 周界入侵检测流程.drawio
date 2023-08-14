@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:54:08.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="_dZzg_ixGFD1X_G7XKHR" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:55:29.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="blMJZoPLTzxxJpojSvg8" version="21.6.8" type="github">
   <diagram name="Page-1" id="T3Z21k5VHN_iptqrHMHW">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="624" y="250" width="51" height="40.2" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-44" value="Protobuf 序列化后的数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="467.88" y="707.5" width="180" height="25" as="geometry" />
+          <mxGeometry x="492.63000000000005" y="1007.5" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-45" value="Master/Node1/Node2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=10;fontColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="360.24" y="1128" width="154.75" height="30" as="geometry" />
@@ -404,17 +404,17 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-191" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Media_File.svg;" vertex="1" parent="1">
           <mxGeometry x="309" y="1821" width="16.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-200" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="473" y="983.5" width="20" height="73" as="geometry" />
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-212" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="683.5" width="20" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-202" value="二进制图片数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="500" y="970" width="90" height="30" as="geometry" />
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-213" value="二进制图片数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="497" y="670" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-203" value="设备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="480" y="1005" width="90" height="30" as="geometry" />
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-214" value="设备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="477" y="705" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-204" value="时间信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="483" y="1035" width="90" height="30" as="geometry" />
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-215" value="时间信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="735" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
