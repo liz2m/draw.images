@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T09:55:29.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="blMJZoPLTzxxJpojSvg8" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:57:23.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="odkFIOYWEn5gyLy3ae4U" version="21.6.8" type="github">
   <diagram name="Page-1" id="T3Z21k5VHN_iptqrHMHW">
-    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-188" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="28" y="97" width="830" height="2103" as="geometry" />
+          <mxGeometry x="28" y="-40" width="830" height="2240" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -336,10 +336,10 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-147" value="Node2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="766" y="1512" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-148" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 系统中包含有8个人员检测程序，分别对应Kafka 中的 8个分区数据进行消费&lt;/p&gt;&lt;p&gt;2. 人员检测程序解析protobuf 数据，并将图片传输到算法程序进行处理&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-148" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 系统中包含有8个人员检测程序，分别对应Kafka 中的 8个分区数据进行消费。&lt;/p&gt;&lt;p&gt;2. 人员检测程序解析protobuf 数据，并将图片传输到算法程序进行处理。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="74" y="1095.5" width="206" height="154.5" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-149" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 每个节点上都会创建3个算法进程独立工作。3个节点共创建 9个算法进程&lt;/p&gt;&lt;p&gt;2.9个算法进程实现了无状态负载均衡即 每个算法进程都可以通过Nacos 调度为 人员检测程序提供检测能力&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-149" value="&lt;h1&gt;备注&lt;/h1&gt;&lt;p&gt;1. 每个节点上都会创建3个算法进程独立工作。3个节点共创建 9个算法进程。&lt;/p&gt;&lt;p&gt;2.9个算法进程实现了无状态负载均衡即 每个算法进程都可以通过Nacos 调度为 人员检测程序提供检测能力。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="1377" width="206" height="154.5" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-154" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
@@ -348,10 +348,10 @@
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-158" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="552.63" y="2060" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-162" value="&lt;h1&gt;持久化流程&lt;/h1&gt;&lt;p&gt;1. 将检测图片数据保存到minio&lt;/p&gt;&lt;p&gt;2. 同时会录制一段 10s 的视频保存到minio 中&lt;/p&gt;&lt;p&gt;3. 将检测记录保存到数据库&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-162" value="&lt;h1&gt;持久化流程&lt;/h1&gt;&lt;p&gt;1. 将检测图片数据保存到minio。&lt;/p&gt;&lt;p&gt;2. 同时会录制一段 10s 的视频保存到minio 中。&lt;/p&gt;&lt;p&gt;3. 将检测记录保存到数据库。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1710" width="206" height="154.5" as="geometry" />
         </mxCell>
-        <mxCell id="aJU3L4zh-oG6XwhIlIdD-163" value="&lt;h1&gt;通知流程&lt;/h1&gt;&lt;p&gt;1. 将通知记录发送到MQTT&lt;/p&gt;&lt;p&gt;2. web 浏览器通过订阅MQTT 的报警通知设备进行报警&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aJU3L4zh-oG6XwhIlIdD-163" value="&lt;h1&gt;通知流程&lt;/h1&gt;&lt;p&gt;1. 将通知记录发送到MQTT。&lt;/p&gt;&lt;p&gt;2. web 浏览器通过订阅MQTT 的报警通知设备进行报警。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="1870" width="206" height="154.5" as="geometry" />
         </mxCell>
         <mxCell id="aJU3L4zh-oG6XwhIlIdD-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aJU3L4zh-oG6XwhIlIdD-164" target="aJU3L4zh-oG6XwhIlIdD-128">
